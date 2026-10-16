@@ -32,5 +32,5 @@ Explore the live dashboard here:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ImmortalDreamX50/Clean-Shield-dashboard.git
+   git clone https://github.com/LavhelaniMano/Clean-Shield-dashboard.git
    cd Clean-Shield-dashboard
